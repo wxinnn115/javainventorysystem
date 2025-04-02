@@ -1,1 +1,2 @@
-# javainventorysystem
+hi大家弄好了database就可以放进database的folder
+我会开多一个是放java的
