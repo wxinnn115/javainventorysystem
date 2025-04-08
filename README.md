@@ -1,3 +1,2 @@
-hi大家弄好了database就可以upload来这里
-java过后也是放这边
+hi大家弄好了java就可以upload来这里
 
